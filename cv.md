@@ -1,6 +1,6 @@
 # CV
 
-1. First and last name: Grigory Legchilo <br> <image src ="/image/image.jpg ">
+1. First and last name: **Grigory Legchilo** <br> <image src ="/image/image.jpg ">
 2. Contacts for communication: +375292635497, [Telegram](https://t.me/Lgregory )
 3. Brief information about yourself: 
 I work in customer support. I want to improve my knowledge of Html and JS, change my place of work.
